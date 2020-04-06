@@ -1,0 +1,12 @@
+Package: plotCutter
+Title: Split multi-facet plot into individual plots
+Version: 0.1.0
+Authors@R:
+    person("Chris", "Etienne",
+           role = c("aut", "cre"),
+           email = "cetienn01@gmail.com")
+Description: This package provides several functions that allow users to split multi-facet plots into individual plots
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
